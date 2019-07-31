@@ -114,3 +114,5 @@ example of a custom nodejs OIDC provider server running on heroku for use as a c
 
 1. As an example, see [Creating a URL that Enables Federated Users to Access the AWS Management Console (Custom Federation Broker)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-console-custom-url.html)
 
+1. To programmatically create URL, see [Example Code Using Python](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-console-custom-url.html#STSConsoleLink_programPython)
+
