@@ -112,3 +112,5 @@ example of a custom nodejs OIDC provider server running on heroku for use as a c
 
 1. You can now use `AccessKeyId`, `SecretAccessKey`, and `SessionToken` in the response to access AWS services with the permissions provided by the `custom-oidc-role-example-01` role
 
+1. As an example, see [Creating a URL that Enables Federated Users to Access the AWS Management Console (Custom Federation Broker)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_enable-console-custom-url.html)
+
